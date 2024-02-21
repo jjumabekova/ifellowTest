@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/replstate.xml/
+temp/
+.idea/**/dataSources/
+*.zip/
+
+
+
+
